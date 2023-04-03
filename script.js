@@ -71,7 +71,7 @@ function repeatGame() {
     }
 }
 
-//output lyrics
+//output lyrics to html
 function playSong() {
     //for loop to itterate through the song
     for (i = 99; i >= 2; i--) {
